@@ -1,0 +1,25 @@
+.header{
+    background-color: #273e54;
+    color: white;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.subheader{
+    display: flex;
+    flex-direction: row;
+}
+
+h5{
+    font-weight: bold;
+}
+
+.leftsubheader{
+    display: flex;
+    justify-content: left;
+}
+
+.rightsubheader{
+    display: flex;
+    justify-content: right;
+}
